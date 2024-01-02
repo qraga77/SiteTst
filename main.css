@@ -1,0 +1,60 @@
+body{
+	background-color: #F0FFF0;
+	color: #404040;
+	font-size: large;
+	background-image: url("pic/fon.jpg");	
+	background-position: center;
+	background-repeat: repeat;
+	background-attachment: fixed;
+}
+
+h2 {text-align: center; }
+
+img {
+	/* max-width: 1023px) */
+	padding: 20px 15px;
+	width: calc(100% - 30px);
+	text-align: center;
+}
+
+a {
+	color: #0000C0;
+}
+a:hover {text-shadow: 1px 1px 2px black, 0 0 1em grey;}
+
+.cant {border: thin solid blue;}
+
+#holst {
+	max-width: 1000px;
+	background-color: #FFFFFF;
+}
+
+#head { 
+	text-align: center; 
+	font-size: x-large;
+	text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+	color: yellow;
+	background-image: url("pic/zag.jpg");	 
+}
+
+#menu {
+	background-color: rgb(244, 224, 252); 
+	padding: 10px 50px; 
+} 
+
+#page  {
+	padding: 10px 40px 40px;
+	background: rgba(248, 248, 255, 0.8);  }
+
+.cn {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+
+
+
+
+
